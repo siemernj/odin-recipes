@@ -1,1 +1,2 @@
 # odin-recipes
+Starting off the odin-recipes project, where I will demonstrate my ability to make a simple html webpage. Utilizing basic html, and no css. Also famiiliarze myself with git and github and pushing commits.
