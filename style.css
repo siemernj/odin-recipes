@@ -1,0 +1,38 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    text-align: center;
+       padding: 20px;
+}
+h1{
+    font-size: 66px;
+    text-decoration: underline;
+    color: blanchedalmond;
+ }
+.main {
+    background-color: blueviolet;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 70px;
+    border: 6px rgb(44, 255, 220);
+
+}
+.middle {
+    color: antiquewhite;
+    background: radial-gradient(rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Coda", Courier, monospace;
+}
+button{
+    width: 500px;
+    height: 50px;
+    border-radius: 8px white;
+    background-color: rgb(255, 198, 52);
+    font-size: 24px;
+    
+}
+button:hover{
+    background-color: coral;
+}
+
